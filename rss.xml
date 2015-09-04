@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[team]]></title>
+        <description><![CDATA[team]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Sep 2015 12:59:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Experiment + The Grid]]></title>
+            <description><![CDATA[<article><h1>The Experiment + The Grid</h1><p>In August of last year, Leigh Taylor asked if we’d be interested in working on this crazy “AI for websites” idea he was working on with Dan Tocchini and a band of talented misfits. We said “yes.” It still kicks our ass every day. We still love it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42003381-6c07-4ae9-a187-cd08eab6abc9.png"></article>]]></description>
+            <link>undefinedthe-experiment-the-grid/index.html</link>
+            <guid isPermaLink="false">8a32ab72-6e72-47ae-b96d-59ff037f42da</guid>
+            <pubDate>Fri, 04 Sep 2015 12:59:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
