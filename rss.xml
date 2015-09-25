@@ -5,8 +5,22 @@
         <description><![CDATA[team]]></description>
         <link>https://thegrid.ai/team/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 21:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2015 21:49:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/team/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Nick Velloff (@nickvelloff). making it mobile at The Grid. San Francisco, CA</p>]]></description>
+            <link>https://www.twitter.com/nickvelloff</link>
+            <guid isPermaLink="false">2ae05148-0d14-4d6f-ac35-d8763e82507d</guid>
+            <pubDate>Fri, 25 Sep 2015 21:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from trevor o' brien (@trevorobrien). creative and business technologist. Co-founder @exprmnt. 33.990263,-118.470949</p>]]></description>
+            <link>https://www.twitter.com/trevorobrien</link>
+            <guid isPermaLink="false">db45f689-6879-4493-a4c8-87824dda8e94</guid>
+            <pubDate>Fri, 25 Sep 2015 21:49:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Henri Bergius]]></title>
             <description><![CDATA[<article><h1>Henri Bergius</h1><p>Hacker and an occasional adventurer. Author of Create.js and NoFlo. Decoupling software, one piece at a time. This blog tells the story of that.</p></article>]]></description>
