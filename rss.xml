@@ -5,7 +5,7 @@
         <description><![CDATA[team]]></description>
         <link>https://thegrid.ai/team/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 21:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2015 21:35:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/team/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Experiment + The Grid]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/team/the-experiment-the-grid/index.html</link>
             <guid isPermaLink="false">8a32ab72-6e72-47ae-b96d-59ff037f42da</guid>
             <pubDate>Fri, 04 Sep 2015 12:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jon Gold - Designer & Technologist]]></title>
+            <description><![CDATA[<article><h1>Jon Gold - Designer & Technologist</h1><p>I became a lot happier in life when I stopped trying to decide whether to call myself a designer or developer, but I care equally about typography, functional programming, grid systems and algorithms - I guess beauty, simplicity and elegance transcends medium.</p><img src="http://www.jon.gold/public/images/portrait-xoxo.jpg"></article>]]></description>
+            <link>http://www.jon.gold/</link>
+            <guid isPermaLink="false">2d4379b1-cd6c-42a7-a6e3-e8f27a156a06</guid>
+            <pubDate>Fri, 25 Sep 2015 21:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nick Jones]]></title>
