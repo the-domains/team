@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-19T04:42:31.001Z'
-dateModified: '2015-10-19T04:42:19.914Z'
+datePublished: '2015-10-19T04:42:43.602Z'
+dateModified: '2015-10-19T04:42:36.746Z'
 title: 'Founding Members,'
 authors: []
 publisher:
