@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-19T04:42:43.602Z'
-dateModified: '2015-10-19T04:42:36.746Z'
+datePublished: '2015-10-19T05:08:31.360Z'
+dateModified: '2015-10-19T05:07:24.049Z'
 title: 'Founding Members,'
+sourcePath: _posts/2015-10-19-founding-members.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-19-founding-members.md
-published: true
 url: founding-members/index.html
 _type: Article
 
 ---
-# Founding Members,
+# 
+
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aa2755a-4931-4bef-859a-a0b2db2e0f7d.jpg)
 
 We've got some big news: On October 8th --- the one year anniversary of our Founding Member Campaign launch --- we flipped the switch and began Grid Beta auto-activations. Every day this week, we've activated 100 new founding members who've begun building the first sites on the Grid. It's been a long time in the making and we know you are anxious to get a look for yourself.
 
