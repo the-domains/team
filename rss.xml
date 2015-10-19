@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[team]]></title>
         <description><![CDATA[team]]></description>
         <link>https://thegrid.ai/team/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 21:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 04:43:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/team/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Founding Members,]]></title>
+            <description><![CDATA[<h1>Founding Members,</h1>]]></description>
+            <link>https://thegrid.ai/team/founding-members/index.html</link>
+            <guid isPermaLink="false">bbc36b5f-deb8-4484-b852-d46f7958e7de</guid>
+            <pubDate>Mon, 19 Oct 2015 04:42:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Nick Velloff (@nickvelloff). making it mobile at The Grid. San Francisco, CA</p>]]></description>
@@ -69,13 +75,6 @@
             <link>http://www.jon.gold/</link>
             <guid isPermaLink="false">2d4379b1-cd6c-42a7-a6e3-e8f27a156a06</guid>
             <pubDate>Fri, 25 Sep 2015 21:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nick Jones]]></title>
-            <description><![CDATA[<article><h1>Nick Jones</h1><p>Prototyper, designer and developer</p></article>]]></description>
-            <link>http://www.narrowdesign.com/</link>
-            <guid isPermaLink="false">8e91b9b0-91a7-4355-90c3-58d3de616f30</guid>
-            <pubDate>Fri, 25 Sep 2015 21:35:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
